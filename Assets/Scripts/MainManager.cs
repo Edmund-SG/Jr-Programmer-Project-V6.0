@@ -3,6 +3,7 @@ using System.IO;
 
 public class MainManager : MonoBehaviour
 {
+    //To test GitHub functinality
     public static MainManager Instance { get; private set; } // add private setter
     //public static MainManager Instance;
     public Color TeamColor; // new variable declared
